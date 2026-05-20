@@ -19,22 +19,13 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install docker.io -y
 ````
 
-# Создаём скрипт для запуска прокси
+## Скачиваем и запускаем прокси одной командой
 
-Создайте файл start-mtproxy.sh:
+Всё, что нужно — выполнить эту команду на сервере:
 
-````
-nano start-mtproxy.sh
-````
-
-Скопируйте в него следующий код из файла start-mtproxy.sh (start-mtproxy-v2.sh минорные правки + поддержка MTU)
-
-Делаем скрипт исполняемым и запускаем:
-
-````
-chmod +x start-mtproxy.sh
-./start-mtproxy.sh
-````
+```
+curl -sSL https://raw.githubusercontent.com/fastbrains13/MTProto-with-fake-tls/main/start-mtproxy-v2.sh -o start-mtproxy.sh && chmod +x start-mtproxy.sh && sudo ./start-mtproxy.sh
+```
 
 Проверяем работает ли MTproxy
 
