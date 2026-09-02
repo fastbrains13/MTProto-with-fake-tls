@@ -4,6 +4,22 @@ MTProto Proxy — это прокси-сервер, разработанный �
 
 Fake TLS (Transport Layer Security) — это режим работы прокси, при котором трафик маскируется под обычный HTTPS-трафик. Это делает его практически неотличимым от посещения обычных сайтов, что значительно усложняет детектирование и блокировку прокси.
 
+ # Рекомендуемые сервера
+
+[Play2go](https://play2go.cloud/?ref_id=jGD2_v4IsE8)
+
+[Firstbyte](https://firstbyte.ru/?from=28204)
+
+[SmartApe](http://www.smartape.ru/?partner=77444)
+
+[VDSka](https://vdska.ru/?p=36069)
+
+[Timeweb](https://timeweb.cloud/r/cc38309) (можно получить бонус до 2000₽)
+
+[VDSina](https://www.vdsina.com/?partner=b2m2e7hc7jnk) 
+
+
+
 # Что нам потребуется
 
 
